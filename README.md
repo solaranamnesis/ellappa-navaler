@@ -2,7 +2,7 @@
 
 Public Domain Works by எல்லப்பநாவலர் (Ellappa Nāvaler).
 
-## அருணாசலபுராணம்.
+## அருணாசலபுராணம். (Aruṇācala purāṇam.)
 
 [Tamil - Plain Text](arunacala-puranam/full-text-tamil.md)  
 Tamil - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
