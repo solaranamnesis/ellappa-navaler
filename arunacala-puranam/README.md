@@ -1,4 +1,4 @@
-# அருணாசலபுராணம்.
+# அருணாசலபுராணம். (Aruṇācala purāṇam.)
 
 [Tamil - Plain Text](full-text-tamil.md)  
 Tamil - PDF | Atkinson | Coelacanth | Biolinum | Aurical | Custom01  
